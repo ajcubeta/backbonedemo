@@ -1,3 +1,9 @@
 == Welcome to Rails
 
   Generated the Rails 3 application using backbonedemo.
+
+  Resource:
+
+    1.) https://github.com/ajcubeta/backbonetutorials
+    2.) http://www.jamesyu.org/2011/02/09/backbone.js-tutorial-with-rails-part-2/
+    3.) https://github.com/codebrew/backbone-rails
